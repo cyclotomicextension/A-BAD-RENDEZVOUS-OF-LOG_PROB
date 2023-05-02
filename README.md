@@ -13,5 +13,5 @@ This paper attempts to establish a connection between two seemingly similar form
 # Documentation: 
 The documentation of the paper includes the title, author, date, and a brief summary of the paper. The introduction provides context and motivation for the paper, while the body presents the technical details and reasoning behind the claim. The comparison of formulations section highlights the similarities between logarithm and probability, while the conclusion offers a final analysis of the claim and its implications. Overall, the paper offers a cautionary tale about the dangers of assuming connections between structures based on superficial similarities.
 
-#License: 
+# License: 
 This work is licensed under the Creative Commons Attribution-NonCommercial (CC BY-NC) license.
